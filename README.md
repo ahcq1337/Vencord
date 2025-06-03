@@ -164,13 +164,13 @@ Créer un plugin peut être difficile, mais vous pouvez regarder le code source 
 > [!TIP]
 > jsx est comme js sauf qu'il est plus strict, une erreur peut se résoudre avec un `Ctrl + S` (sauvegarder le fichier)
 
-
-##
-### Crédit :  
-> https://github.com/ahcq1337  
-> https://github.com/ItzMarni - grâce à qui j'ai su comment faire des plugins
-
 ---
 
 # Mes plugins :
 **soon**
+
+---
+
+### Crédit :  
+> https://github.com/ahcq1337  
+> https://github.com/ItzMarni - grâce à qui j'ai su comment faire des plugins
