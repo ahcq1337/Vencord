@@ -1,4 +1,4 @@
-# Ajoutez Vencord et Téléchargez des plugins personnalisés
+# Ajouter Vencord et Télécharger des plugins personnalisés
 
 > [!CAUTION]  
 > Vencord enfreint les T.O.S., je ne suis en aucun cas responsable de vos actes.
@@ -124,7 +124,7 @@ Vous trouverez les nouveaux plugins dans la section Plugins de Vencord dans vos 
 
 ---
 
-# Créez vos propres plugins
+# Créer vos propres plugins
 
 > [!TIP]  
 > Il est conseillé d'avoir les bases en JavaScript ou en TypeScript afin de créer vos propres plugins.  
@@ -168,5 +168,9 @@ Créer un plugin peut être difficile, mais vous pouvez regarder le code source 
 ##
 ### Crédit :  
 > https://github.com/ahcq1337  
-> https://github.com/ItzMarni - grâce à qui j'ai su comment faire des plugins  
-> (https://gist.github.com/ItzMarni/bb7ba15d96e64e48d2fae68afa220c4f)
+> https://github.com/ItzMarni - grâce à qui j'ai su comment faire des plugins
+
+---
+
+# Mes plugins :
+**soon**
