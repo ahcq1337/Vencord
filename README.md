@@ -166,11 +166,12 @@ Créer un plugin peut être difficile, mais vous pouvez regarder le code source 
 
 ---
 
-# Mes plugins :
+# Mes plugins
 **soon**
 
 ---
 
-### Crédit :  
+# Crédits
 > https://github.com/ahcq1337  
 > https://github.com/ItzMarni - grâce à qui j'ai su comment faire des plugins
+
