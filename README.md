@@ -49,11 +49,7 @@ Puis vérifiez qu'il est bien installé :
 pnpm --version
 ```
 
-Vous devriez avoir un retour comme :
-
-```bash
-10.4.1
-```
+Vous devriez avoir un retour comme `10.4.1`
 
 Installez les dépendances :
 
