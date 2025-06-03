@@ -164,3 +164,6 @@ export default definePlugin({
 ```
 
 Créer un plugin peut être difficile, mais vous pouvez regarder le code source de plugins publics pour vous inspirer et vous aider.
+
+> [!TIP]
+> jsx est comme js sauf qu'il est plus strict, une erreur peut se résoudre avec un `Ctrl + S` (sauvegarder le fichier)
